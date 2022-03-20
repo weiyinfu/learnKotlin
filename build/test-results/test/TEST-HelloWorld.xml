@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HelloWorld" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-20T09:40:15" hostname="C02CW1AUML87" time="0.002">
+  <properties/>
+  <testcase name="hello" classname="HelloWorld" time="0.002"/>
+  <system-out><![CDATA[天下大势为我所控
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
